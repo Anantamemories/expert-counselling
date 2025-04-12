@@ -18,7 +18,7 @@ export default function Home() {
       <section className="bg-gradient-to-r from-blue-100 to-white py-20 px-6 text-center">
         <h2 className="text-4xl font-bold mb-4">Get Into Top Engineering Colleges with Expert Help</h2>
         <p className="max-w-2xl mx-auto text-lg mb-6">
-          Enroll in our JEE Mains 2024 Expert Counselling Program to access an on-demand course,
+          Enroll in our JEE Mains 2025 Expert Counselling Program to access an on-demand course,
           personalized guidance, and choice filling support to get admission in NITs, IIITs, and top state colleges.
         </p>
         <a
@@ -27,7 +27,8 @@ export default function Home() {
           rel="noopener noreferrer"
           className="bg-blue-700 hover:bg-blue-600 text-white font-semibold px-6 py-3 rounded-lg"
         >
-          Join Now for ₹6,499
+          ENROLL INSIDE EXPERT COUNSELLING PROGRAM NOW!
+
         </a>
       </section>
 
