@@ -3,7 +3,7 @@ export default function Home() {
     <div className="min-h-screen bg-white text-gray-800 font-sans">
       <header className="bg-blue-900 text-white p-6 shadow-md">
         <div className="max-w-6xl mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-bold">Expert Counselling 2024</h1>
+          <h1 className="text-2xl font-bold">Expert Counselling 2025</h1>
           <a
             href="https://tagmango.app/b6973e66fb"
             target="_blank"
