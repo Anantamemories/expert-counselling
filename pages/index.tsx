@@ -36,12 +36,13 @@ export default function Home() {
         <h3 className="text-3xl font-bold mb-8 text-center">Why Join?</h3>
         <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3">
           {[
-            '8-Hour On-Demand Video Course',
-            'Counselling Support for All Major Platforms',
-            'Track Record Since 2017',
+            'We cover almost all the reputed national & state level counselling ',
+            'One-to-One Counselling Sessions',
+            'we suggest the best possible colleges tailored to their preferences and potential.',
             'Support for JoSAA, CSAB, JAC, UPTAC & More',
-            'Limited Time Discounted Price',
-            'Money-Back Guarantee If No Admission'
+            'Comprehensive Possibilities Report:',
+            'Money-Back Guarantee If No Admission',
+            '24/7 Support Until Allotment'    
           ].map((item, idx) => (
             <div
               key={idx}
