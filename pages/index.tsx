@@ -31,8 +31,7 @@ export default function Home() {
 
         </a>
       </section>
-
-      <section className="py-16 px-6 max-w-5xl mx-auto">
+   <section className="py-16 px-6 max-w-5xl mx-auto">
         <h3 className="text-3xl font-bold mb-8 text-center">Why Join?</h3>
         <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3">
           {[
