@@ -19,7 +19,7 @@ export default function Home() {
         <h2 className="text-4xl font-bold mb-4">Get Into Top Engineering Colleges with Expert Help</h2>
         <p className="max-w-2xl mx-auto text-lg mb-6">
           Enroll in our JEE Mains 2025 Expert Counselling Program to access an on-demand course,
-          personalized guidance, and choice filling support to get admission in NITs, IIITs, and top state colleges.
+          personalized guidance, and choice filling support to get admission in IITs, NITs, IIITs, and top state colleges.
         </p>
         <a
           href="https://tagmango.app/b6973e66fb"
@@ -42,7 +42,17 @@ export default function Home() {
             'Support for JoSAA, CSAB, JAC, UPTAC & More',
             'Comprehensive Possibilities Report:',
             'Money-Back Guarantee If No Admission',
-            '24/7 Support Until Allotment'    
+            '24/7 Support Until Allotment'  
+          <a
+          href="https://tagmango.app/b6973e66fb"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-blue-700 hover:bg-blue-600 text-white font-semibold px-6 py-3 rounded-lg"
+        >
+          ENROLL INSIDE EXPERT COUNSELLING PROGRAM NOW!
+
+        </a>
+  
           ].map((item, idx) => (
             <div
               key={idx}
