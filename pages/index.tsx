@@ -43,15 +43,7 @@ export default function Home() {
             'Comprehensive Possibilities Report:',
             'Money-Back Guarantee If No Admission',
             '24/7 Support Until Allotment'  
-          <a
-          href="https://tagmango.app/b6973e66fb"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-blue-700 hover:bg-blue-600 text-white font-semibold px-6 py-3 rounded-lg"
-        >
-          ENROLL INSIDE EXPERT COUNSELLING PROGRAM NOW!
-
-        </a>
+         
   
           ].map((item, idx) => (
             <div
