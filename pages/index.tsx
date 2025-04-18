@@ -27,8 +27,8 @@ export default function Home() {
 
         <div className="flex justify-center mb-6">
           <img
-            src="/Get Personally Mento (10).jpg"
-            alt="JEE Mains Expert Counseling"
+            src="/JEEMAIN.jpg"
+          
             className="w-full max-w-sm rounded-lg shadow-xl object-cover"
           />
         </div>
